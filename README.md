@@ -9,3 +9,6 @@ TO RGB (ELSE IT WONT WORK)
 
 # Bugs
 I'm aware of the light mode bug. It'll be patched soon.
+
+# Key Binds
+To Create A New File, Just press W Or the key up key.
