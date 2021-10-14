@@ -1,4 +1,4 @@
-﻿using Explorer_X.Properties;
+using Explorer_X.Properties;
 using Siticone.UI.WinForms;
 using System;
 using System.Collections.Generic;
@@ -31,6 +31,7 @@ namespace Explorer_X.Source.Classes.Theme_Handler
                 panel4.BackColor = Color.FromArgb(46, 52, 64);
                 panel5.BackColor = Color.FromArgb(46, 52, 64);
                 panel6.BackColor = Color.FromArgb(46, 52, 64);
+                view.ForeColor = Color.White;
             }
             if (theme == "Light")
             {
@@ -40,12 +41,13 @@ namespace Explorer_X.Source.Classes.Theme_Handler
                 panel.FillColor4 = Color.White;
                 box.FillColor = Color.White;
                 view.BackColor = Color.White;
-                panel1.BackColor = Color.White;
-                panel2.BackColor = Color.White;
-                panel3.BackColor = Color.White;
-                panel4.BackColor = Color.White;
-                panel5.BackColor = Color.White;
-                panel6.BackColor = Color.White;
+                panel1.BackColor = Color.FromArgb(105, 105, 105);
+                panel2.BackColor = Color.FromArgb(105, 105, 105);
+                panel3.BackColor = Color.FromArgb(105, 105, 105);
+                panel4.BackColor = Color.FromArgb(105, 105, 105);
+                panel5.BackColor = Color.FromArgb(105, 105, 105);
+                panel6.BackColor = Color.FromArgb(105, 105, 105);
+                view.ForeColor = Color.Black;
             }
         }
         // Worst Idea, but works and that is what really matters.
