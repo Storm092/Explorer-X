@@ -14,4 +14,4 @@ I'm aware of the light mode bug. It'll be patched soon.
 To Create A New File, Just press W Or the key up key.
 
 # Bug Report
-Feel free to report bugs in our discord. https://discord.gg/g4CtTf62BH
+Feel free to report bugs in our discord: https://discord.gg/g4CtTf62BH
